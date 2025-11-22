@@ -12,7 +12,7 @@ A simple JavaScript project that simulates a traffic light system.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **HTML5**
 - **CSS3**
 _ **React**
