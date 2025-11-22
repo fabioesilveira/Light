@@ -13,7 +13,7 @@ export default function App() {
   useEffect(() => {
     const interval = setInterval(() => {
       setLight((prev) => cycle[prev])
-    }, 2000);
+    }, 1000);
     return() => clearInterval(interval)
   }, [])
    
