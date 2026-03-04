@@ -18,13 +18,18 @@ A simple JavaScript project that simulates a traffic light system.
 _ **React**
 - **JavaScript (ES6+)**
 
-## How to Clone and Test This Project
 
-Follow the steps below to run the project on your machine:
+## How to Run This Project
 
-### ** Clone the repository to test**
 ```bash
+# Clone the repository
 git clone https://github.com/fabioesilveira/Light.git
+
+# Enter the project folder
 cd Light
-npm install 
+
+# Install dependencies
+npm install
+
+# Start the development server
 npm run dev
