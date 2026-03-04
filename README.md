@@ -23,10 +23,10 @@ _ **React**
 
 ```bash
 # Clone the repository
-git clone https://github.com/fabioesilveira/Light.git
+git clone https://github.com/fabioesilveira/Traffic-Light.git
 
 # Enter the project folder
-cd Light
+cd Traffic-Light
 
 # Install dependencies
 npm install
